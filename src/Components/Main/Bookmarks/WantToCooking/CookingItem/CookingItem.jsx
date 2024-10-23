@@ -20,7 +20,7 @@ export default function CookingItem({
             handelCooking(blog);
             readTimeCount(blog);
           }}
-          className="btn bg-green-400"
+          className="btn text-xs sm:text-base font-light sm:font-normal bg-green-400"
         >
           Preparing
         </button>

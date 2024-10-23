@@ -50,7 +50,7 @@ export default function Bookmark({
             <p className="-ml-6">
               Total Time <br /> = {totalTime} min
             </p>
-            <p className="-ml-6">
+            <p className="sm:-ml-6">
               Total Calories <br /> = {totalCal}
             </p>
           </div>
