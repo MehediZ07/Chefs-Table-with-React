@@ -46,16 +46,15 @@ export default function Blogs() {
     <div>
       <div class="hero h-[550px] object-cover rounded-xl bg-opacity-70 bg-[url('https://nextrestaurants.com/wp-content/uploads/2018/08/restaurant-marketing-5star-dining-1140x676.png')]">
         <div class="hero-content text-center">
-          <div class="max-w-[70%]">
+          <div class="md:max-w-[70%] max-w-[90%]">
             <h1 class="text-5xl font-bold">Hello Foodies</h1>
-            <p class="py-6">
+            <p class="md:py-6 ">
               Cooking is an art, a joyful exploration of flavors and techniques.
               Foodies celebrate this passion, experimenting with ingredients,
-              sharing experiences, and discovering new culinary delights that
-              ignite their taste buds. Join a vibrant community celebrating the
-              joy of cooking! Share recipes, explore global cuisines, and
-              discover hidden gems. Unleash your creativity and ignite your
-              passion for delicious food!
+              sharing experiences. Join a vibrant community celebrating the joy
+              of cooking! Share recipes, explore global cuisines, and discover
+              hidden gems. Unleash your creativity and ignite your passion for
+              delicious food!
             </p>
             <button class="btn bg-green-400 text-gray-800 text-xl font-bold border-none">
               Get Started Cooking
@@ -63,7 +62,7 @@ export default function Blogs() {
           </div>
         </div>
       </div>
-      <div className="py-12 space-y-4 text-center w-[60%] mx-auto">
+      <div className="py-12 space-y-4 text-center md:w-[60%] w-[90%] mx-auto">
         <h1 className="text-5xl font-bold text-center">Our Recipes</h1>
         <p>
           Cooking is an art that combines creativity and technique, transforming
