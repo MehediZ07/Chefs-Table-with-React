@@ -48,7 +48,7 @@ export default function Blogs() {
         <div class="hero-content text-center">
           <div class="md:max-w-[70%] max-w-[90%]">
             <h1 class="text-5xl font-bold">Hello Foodies</h1>
-            <p class="md:py-6 ">
+            <p class="md:py-6 py-4">
               Cooking is an art, a joyful exploration of flavors and techniques.
               Foodies celebrate this passion, experimenting with ingredients,
               sharing experiences. Join a vibrant community celebrating the joy
