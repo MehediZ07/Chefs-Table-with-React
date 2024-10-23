@@ -13,7 +13,7 @@ export default function Blog({ blog, handelBookmark, readBlog }) {
 
   return (
     <div>
-      <div class="card bg-base-100 h-[820px] shadow-xl">
+      <div class="card bg-base-100 min-h-[820px] shadow-xl">
         <div class="px-10 pt-10 h-[240px] w-full mb-6">
           <img
             className="rounded-xl h-[240px] w-full object-cover"
